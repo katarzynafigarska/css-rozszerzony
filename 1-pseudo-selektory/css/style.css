@@ -3,7 +3,7 @@ div > p#p1::before {
     color:red;
 }
 
-div > p#p2::after {
+div p#p2::after {
     content: " za elementem";
     color: blue;
 }
