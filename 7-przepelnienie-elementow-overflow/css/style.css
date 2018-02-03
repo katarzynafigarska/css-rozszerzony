@@ -1,0 +1,8 @@
+#tlo-obrazek {
+    background-image: url("../img/de-mello.jpg");
+    background-repeat: no-repeat;
+    background-position: top center;
+    background-size: 50% 50%;
+    background-attachment: fixed;
+    background-color: lime;
+}
