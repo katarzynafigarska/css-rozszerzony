@@ -1,12 +1,16 @@
-img#truskawka1 {
+body {
+    background-color: gray
+}
+
+img#autor1 {
     float: left;
 }
 
-img#truskawka2 {
+img#autor2 {
     float: right;
 }
 
-img#truskawka1 {
+img#autor1 {
     float: none;
 }
 
